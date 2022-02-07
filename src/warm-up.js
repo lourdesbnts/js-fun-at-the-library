@@ -24,7 +24,7 @@ var pages = 163;
 
 // Initialize a new variable "movie", but leave it undefined
 
-var movie = '';
+var movie = null;
 
 // Create a variable named "sequel", and assign it to a be a sequel of your
 // book (made up or not!). Your sequel must make use of your "title" variable from above
@@ -104,4 +104,4 @@ var dictionary = {
 // Write the code to add the key of pageCount, with the value of 720. Use dot
 // notation to do this. DO NOT modify your code from above.
 
-dictionary.keyCount = 720; 
+dictionary.keyCount = 720;
